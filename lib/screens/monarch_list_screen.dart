@@ -4,7 +4,6 @@ import '../providers/monarch_provider.dart';
 import '../models/monarch.dart';
 import 'monarch_form_screen.dart';
 import 'monarch_detail_screen.dart';
-import 'monarch_form_screen.dart';
 
 
 class MonarchListScreen extends StatelessWidget {
